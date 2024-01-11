@@ -10,7 +10,7 @@ To avoid unnecessary calculations and predictions, each 40 frames are compared w
 
 ![output](https://github.com/karinaaq/parking-space-counter/assets/67199946/be458166-dd19-405d-a0ee-1783305d8c3f)
 
-🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲
+🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲🚗🚕🚙🚚🚲
 
 This code essentially processes a video by frame, detects changes in specified parking spots, and classifies them as either occupied or empty, displaying the results in real-time.
 
